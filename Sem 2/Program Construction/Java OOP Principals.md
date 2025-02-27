@@ -152,3 +152,4 @@
 > certain assumptions about a class and we want to prevent other classes 
 > extending our class and break those assumptions. 
 
+
